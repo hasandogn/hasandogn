@@ -1,9 +1,5 @@
 ### 👋 Hi there, I'm Hasan. 
 
-<!--
-**hasandogn/hasandogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - :hammer_and_pick: These days I mostly work with React / React-native. I have projects with java and .net core. 
 I like to learn different technologies.
 
@@ -23,4 +19,6 @@ I like to learn different technologies.
 - [GRAPHQL vs REST](https://hasandogn.medium.com/graphql-vs-rest-60b6c8709043)
 - [Test Driven Development Nedir?](https://hasandogn.medium.com/test-driven-development-tdd-nedir-b78c7a6ef10b)
 <!-- BLOG-POST-LIST:END -->
+<!--
+**hasandogn/hasandogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
