@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Hasan. 
 
-- :hammer_and_pick: These days I mostly work with React / React-native. I have projects with java and .net core. 
+- :hammer_and_pick: These days I mostly work with React / React-native, Node js, graphql, prisma. I have projects with java and .net core. 
 I like to learn different technologies.
 
 
