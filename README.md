@@ -15,7 +15,7 @@ I like to learn different technologies.
   
   
   
-  ### 📕 My Latest Blog posts(Turkish):
+### 📕 My Latest Blog posts(Turkish):
 <!-- BLOG-POST-LIST:START -->
 - [React ve React Native Uygulamaları Arasında Kod Paylaşımı](https://hasandogn.medium.com/react-ve-react-native-uygulamalar%C4%B1-aras%C4%B1nda-kod-payla%C5%9F%C4%B1m%C4%B1-1404da066d39)
 - [AKLINI KULLAN AKSİNİ DÜŞÜN KİTABINDAN NOTLAR](https://hasandogn.medium.com/aklini-kullan-aksi%CC%87ni%CC%87-d%C3%BC%C5%9F%C3%BCn-ki%CC%87tabindan-notlar-fa5dc63031fe)
