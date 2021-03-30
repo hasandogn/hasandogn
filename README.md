@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Hasan. 
 
-- :hammer_and_pick: These days I mostly work with React / React-native, .NET / Core, graphql, prisma. I like to learn different technologies and also like to develop with Java.
+- :hammer_and_pick: These days I mostly work with React / React-native, .NET / Core, graphql, serverless. I like to learn different technologies and also like to develop with Java.
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://hasandogn.medium.com/)](https://hasandogn.medium.com/) 
