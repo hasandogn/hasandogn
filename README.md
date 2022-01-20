@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Hasan. 
 
-- :hammer_and_pick: These days I mostly work with AngularJS and .NET Core. I like to learn different technologies and also like to develop with Java and React / React-native, docker, aws.
+- :hammer_and_pick: These days I mostly work with AngularJS and .NET Core. I like to learn different technologies and also like to develop with Java and React / React-native.
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://hasandogn.medium.com/)](https://hasandogn.medium.com/) 
